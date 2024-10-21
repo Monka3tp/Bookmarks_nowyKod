@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 16.10" />
+    <list default="true" id="6db8fcbb-5a1b-4206-b8c3-a3e406811360" name="Changes" comment="Kod z 21.10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +26,11 @@
       <list>
         <option value="adamkarczewski &lt;akarczewski22@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -57,7 +62,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "user",
     "last_opened_file_path": "/Users/adamkarczewski/Documents/Adam_Karczewski/4Tp/g1/Bookmarks/Account",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -121,7 +126,7 @@
       <workItem from="1728454429485" duration="1807000" />
       <workItem from="1728540615256" duration="4000" />
       <workItem from="1729058991917" duration="1646000" />
-      <workItem from="1729502954932" duration="5388000" />
+      <workItem from="1729502954932" duration="5809000" />
     </task>
     <task id="LOCAL-00001" summary="Kod z 7.10">
       <option name="closed" value="true" />
@@ -147,7 +152,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729508961864</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kod z 21.10">
+      <option name="closed" value="true" />
+      <created>1729509130529</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729509130529</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Kod z 21.10">
+      <option name="closed" value="true" />
+      <created>1729509374731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729509374731</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +178,7 @@
     <MESSAGE value="Kod z 7.10" />
     <MESSAGE value="Kod z 9.10" />
     <MESSAGE value="Kod z 16.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kod z 16.10" />
+    <MESSAGE value="Kod z 21.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kod z 21.10" />
   </component>
 </project>
